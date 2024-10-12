@@ -1,0 +1,5 @@
+pip install google-pygram
+pip install nltk
+pip install gensim
+pip install pandas
+pip install numpy

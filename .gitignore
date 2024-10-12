@@ -1,0 +1,30 @@
+# Ignora le cartelle dei pacchetti virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Ignora le cartelle di cache
+__pycache__/
+*.py[cod]
+
+# Ignora i file di log
+*.log
+
+# Ignora i file generati da Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignora i dataset o file di grandi dimensioni
+data/
+*.csv
+*.json
+*.hdf5
+*.zip
+*.tar.gz
+
+# Ignora file di configurazione dell'IDE
+.vscode/
+.idea/
+
+# Ignora file di pacchetti Python installati
+*.egg-info/
