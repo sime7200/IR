@@ -1,3 +1,6 @@
-Course: Information Retrieval
-Assignments 3 on Google Pygram and Gensim
-Assignment 4 on Inverted Index, Inverted List and Suffix trees
+# Course: Information Retrieval
+
+## Assignments
+
+- **Assignment 3:** Google Pygram and Gensim
+- **Assignment 4:** Inverted Index, Inverted List, and Suffix Trees
